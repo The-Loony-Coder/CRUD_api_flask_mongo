@@ -1,3 +1,4 @@
 # CRUD_api_flask_mongo
 
->Running the application
+>How to run the application
+>install all the dependencies
