@@ -11,5 +11,6 @@
 * In postman test the requests..
 * Post:http://localhost:5000/add // for adding new user
 * Post:http://localhost:5000/users // for getting existing users
-* Post:http://localhost:5000/user/paste the id of the user you want to update // example id:607ea5c19dd672a2755f4d5f , will be uniquly genrated "you will get it from your database"
-* PUT:http://localhost:5000/update/paste the id of the user you want to update // w
+* Post:http://localhost:5000/user/paste the id of the user you want to update // example http://localhost:5000/user/607ea5c19dd672a2755f4d5f , will be uniquely genrated "you will get it from your database"
+* PUT:http://localhost:5000/update/paste the id of the user you want to update //example http://localhost:5000/user/607ea5c19dd672a2755f4d5f
+* DELETE: http://localhost:5000/delete/paste the id of the user you want to delete
